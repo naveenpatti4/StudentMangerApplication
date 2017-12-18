@@ -1,0 +1,15 @@
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/ServerApplication.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/dto/StudentDTO.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/mapper/StudentMapper.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/target/generated-sources/java/com/school/ng2/server/mapper/StudentMapperImpl.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/target/generated-sources/java/com/school/ng2/server/model/QAbstractEntity.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/dto/AbstractDTO.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/repository/StudentRepository.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/mvc/StudentController.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/model/AbstractEntity.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/service/StudentService.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/repository/StudentRepositoryImpl.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/model/Student.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/repository/StudentRepositoryCustom.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/src/main/java/com/school/ng2/server/service/StudentServiceImpl.java
+/Users/Naveen/Desktop/StudentManagerApplication-1/SchoolRestService/target/generated-sources/java/com/school/ng2/server/model/QStudent.java
